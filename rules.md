@@ -21,7 +21,8 @@ We will discuss responsibilities at the first group meeting and delegate tasks f
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+If one person is struggling with their assignment they must communicate with the rest
+of the group to resolve the issue promptly and effectively.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
