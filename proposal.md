@@ -57,7 +57,9 @@ display: buttons- "Jumping", "Flatting"<br/>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+See next seven days, can pick one. Then, can pick an activity. Can either pick jumping or flatting between two displayed  
+buttons. Can then choose between the available horses on that day from a list. User then recieves confirmation that their  
+reservation has been confirmed.  
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
