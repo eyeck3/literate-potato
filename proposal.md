@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+The UW equestrian team desires a better way to reserve horses and confirm that they are not overworked by the riders. The Horses can only be ridden a certain amount of times a day/week depending on whether the horses are being jumped or flatted(no jumping), and it can be problematic to determine when a horse has exceeded it's healthy limit for the week. The riders need to reserve horses for certain times and activity, and the program must not allow users to use a horse if it has already been ridden to it's quota for that activity. This app will also make sure that each horse recieves routine excercise, and is not over worked.
 
 ## Questions to answer for Exercise #2
 
@@ -45,14 +44,7 @@ JustHorsingAround
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-Date of use: date the user would like to request to use the horse
-Horse name: name of the horse the user would like use of
-Jumping or Flatting: if the user would like to jump or flat the horse
 
-ex:
-display:"Enter date:" enter:"10/29/2018"
-display:"Enter horse name:" enter:"Hudson"
-display: buttons- "Jumping", "Flatting"
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
