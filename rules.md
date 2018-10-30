@@ -24,6 +24,9 @@ A team member will text in a group discusssion if they are having trouble with a
 If one person is struggling with their assignment they must communicate with the rest
 of the group to resolve the issue promptly and effectively.
 
+## Respectful and helpfull attitude
+Team members are expected to be respectful in all forms of communication. 
+Also members are expected to have a good attitude and help each other work towards the goal. 
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
