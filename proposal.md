@@ -40,6 +40,7 @@ JustHorsingAround
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+The program will tell you when a horse will be available or what horses are available on a given day. Users of the program can check a horse's status
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
