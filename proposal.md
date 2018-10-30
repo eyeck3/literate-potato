@@ -67,6 +67,8 @@ Horse Class stores information about the horse and its previous events. Event in
 boolean array that contains true on days of the week that the horse jumped.
 GUI used for selecting a horse to check its information.
 
+Test class that will test different horse reservations and confirm that the correct horses are left availiable. Will also check the schedule remains correct as the days change and that the array resets after the day has passed. This will use junit testing.
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
