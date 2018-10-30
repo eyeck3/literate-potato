@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: eyeck      1: Ethan Yeck
        * GitHub username 2: rmercer2   2: Rebecca Mercer
-       * GitHub username 3:       name 3:
+       * GitHub username 3: hunterhuth 3: Hunter Huth
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
