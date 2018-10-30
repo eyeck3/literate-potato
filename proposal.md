@@ -61,9 +61,9 @@ display: buttons- "Jumping", "Flatting"<br/>
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
-
-Name each interface or class and briefly describe its function or purpose.
+Horse Class stores information about the horse and its previous events. Event information contained in a 7 element
+boolean array that contains true on days of the week that the horse jumped.
+GUI used for selecting a horse to check its information.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
