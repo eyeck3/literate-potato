@@ -45,6 +45,14 @@ JustHorsingAround
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 
+Date of use: date the user would like to request to use the horse<br/>
+Horse name: name of the horse the user would like use of<br/>
+Jumping or Flatting: if the user would like to jump or flat the horse<br/>
+
+ex:<br/>
+display:"Enter date:" enter:"10/29/2018"<br/>
+display:"Enter horse name:" enter:"Hudson"<br/>
+display: buttons- "Jumping", "Flatting"<br/>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
